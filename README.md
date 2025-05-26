@@ -12,8 +12,6 @@ A clean and minimalistic Todo List application built using React, JSX, HTML, and
 
 📁 Organized project structure
 
-🖼️ Demo
-Live Demo <!-- Replace # with your deployed app link if available -->
 
 ## 🛠️ Tech Stack
 React – Frontend library
